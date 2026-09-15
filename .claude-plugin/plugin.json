@@ -1,0 +1,17 @@
+{
+  "name": "gmail-triage-agent",
+  "version": "0.2.0",
+  "description": "Sorts a Gmail inbox into Action Needed, FYI, and Low-Value; flags calendar-worthy mail and prepares reply drafts. Never sends, never deletes without confirmation.",
+  "author": {
+    "name": "Ilgın Deniz Kuran"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gmail",
+    "email",
+    "triage",
+    "inbox",
+    "calendar",
+    "productivity"
+  ]
+}
