@@ -1,0 +1,13 @@
+{
+  "name": "gmail-triage-agent",
+  "owner": {
+    "name": "Ilgın Deniz Kuran"
+  },
+  "plugins": [
+    {
+      "name": "gmail-triage-agent",
+      "source": "./",
+      "description": "Sorts a Gmail inbox into Action Needed, FYI, and Low-Value; flags calendar-worthy mail and prepares reply drafts. Never sends, never deletes without confirmation."
+    }
+  ]
+}
